@@ -1,2 +1,2 @@
-sklearn
-stremlit
+import sklearn
+import stremlit
